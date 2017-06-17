@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>利用微信JSSDK实现微信内的分享demo</title>
+    <script type="text/javascript" src="http://www.w3school.com.cn/jquery/jquery.js"></script>
+    <script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+    <script>
+        $(document).ready(function () {
+            var url = {"url": location.href.split('#')[0]};
+            var server = "server_api/wxjssdk.php";
+            $.ajax({
+                type: "post",
+                url: server,
+                dataType: "json",
+                data: url,
+                success: function (htmlobj) {
+                   // console.log(htmlobj);   //调试信息
+                    var appId = htmlobj.appId;
+                    var timestamp = htmlobj.timestamp;
+                    var nonceStr = htmlobj.nonceStr;
+                    var signature = htmlobj.signature;
+                    //  $("#myDiv").html(htmlobj.responseText);   //调试信息
+                    wx.config({
+                        debug: false,
+                        appId: appId,
+                        timestamp: timestamp,
+                        nonceStr: nonceStr,
+                        signature: signature,
+                        jsApiList: [
+                            'onMenuShareTimeline',
+                            'onMenuShareAppMessage',
+                            'onMenuShareQQ',
+                            'onMenuShareWeibo'
+                        ]
+                    });
+
+
+                    wx.ready(function () {
+
+                        wx.onMenuShareTimeline({
+                            title: '分享标题',
+                            link: "http://m.jd.com",
+                            imgUrl: "https://shared-https.ydstatic.com/ynote/ydoc/images/26fbf9d5.loading-pen.gif"
+                        });
+                        wx.onMenuShareAppMessage({
+                            title: '分享标题',
+                            desc: "分享描述",
+                            link: "http://m.jd.com",
+                            imgUrl: "https://shared-https.ydstatic.com/ynote/ydoc/images/26fbf9d5.loading-pen.gif",
+                            type: 'link'
+                        });
+                    });
+                    //   alert( htmlobj.jsapiTicket );  //调试信息
+                }
+            });
+        });
+    </script>
+
+</head>
+<body>
+
+
+<div id="myDiv">
+
+<H1> HELLO ! </H1>
+</div>
+</body>
+</html>
