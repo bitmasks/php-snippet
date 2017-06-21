@@ -89,7 +89,7 @@ class Spider
      */
     private function sence($url = '')
     {
-        if (preg_match('/http:\/\/item.jd.com/i', $url)) {
+        if (preg_match('/https:\/\/item.jd.com/i', $url)) {
             return $this->jd($url);
         } else if (preg_match('/https:\/\/item.taobao.com/i', $url)) {
             return $this->taobao($url);
