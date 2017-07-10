@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c21ae5c9-751c-4886-be05-0522343c9393" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="c21ae5c9-751c-4886-be05-0522343c9393" name="Default" comment="...">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/snippet.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build_sql_from_word_file/main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/demo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/bin/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/composer/ClassLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/composer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/composer/autoload_classmap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/composer/autoload_namespaces.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/composer/autoload_psr4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/composer/autoload_real.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/composer/autoload_static.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/curlmulti/CurlMulti.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/curlmulti/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/curlmulti/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/http/Http.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/http/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/http/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/phpquery-single/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/phpquery-single/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/phpquery-single/phpQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-aquery/AQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-aquery/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-aquery/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-dimage/DImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-dimage/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-dimage/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-login/Login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-login/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-login/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-multi/Multi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-multi/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-multi/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-request/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-request/Request.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist-ext-request/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist/QueryList.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/spider/vendor/QueryList/vendor/jaeger/querylist/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/weixin_share/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/weixin_share/server_api/wxjssdk.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/weixin_share/server_cache/cache/access_token.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/weixin_share/server_cache/cache/jsapi_ticket.php" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,6 +89,7 @@
         <option value="$PROJECT_DIR$/php_crontab/js/main.js" />
         <option value="$PROJECT_DIR$/mange_crontab_by_php/index.php" />
         <option value="$PROJECT_DIR$/mange_crontab_by_php/crontab.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -59,6 +111,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -74,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -89,15 +141,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/php_crontab" />
     </key>
@@ -196,6 +252,10 @@
       <workItem from="1498057012461" duration="5830000" />
       <workItem from="1498113601276" duration="6240000" />
       <workItem from="1498140448321" duration="673000" />
+      <workItem from="1498147688978" duration="346000" />
+      <workItem from="1498204001885" duration="337000" />
+      <workItem from="1498279107285" duration="145000" />
+      <workItem from="1498279270188" duration="192000" />
     </task>
     <task id="LOCAL-00001" summary="...">
       <created>1498057080896</created>
@@ -229,29 +289,27 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12921000" />
+    <option name="totallyTimeSpent" value="14363000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27382874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32892805" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35123968" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39941263" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -273,38 +331,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mange_crontab/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mange_crontab/crontab.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4710">
-          <caret line="314" column="8" lean-forward="false" selection-start-line="314" selection-start-column="8" selection-end-line="314" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mange_crontab/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build_sql_from_word_file/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Application Support/appsolute/MAMP PRO/mamp/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -344,57 +370,21 @@
     <entry file="file://$PROJECT_DIR$/php_crontab/lib/add.php" />
     <entry file="file://$PROJECT_DIR$/php_crontab/lib/deleteall.php" />
     <entry file="file://$PROJECT_DIR$/php_crontab/lib/deletejob.php" />
-    <entry file="file://$PROJECT_DIR$/mange_crontab/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="56" column="19" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mange_crontab/css/main.css" />
     <entry file="file://$PROJECT_DIR$/php_crontab/img/glyphicons-halflings.png" />
     <entry file="file://$PROJECT_DIR$/php_crontab/img/glyphicons-halflings-white.png" />
     <entry file="file://$PROJECT_DIR$/php_crontab/README.md" />
     <entry file="file://$PROJECT_DIR$/php_crontab/log.php" />
     <entry file="file://$PROJECT_DIR$/php_crontab/test.php" />
-    <entry file="file://$PROJECT_DIR$/mange_crontab/css/bootstrap-responsive.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mange_crontab/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mange_crontab/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mange_crontab/crontab.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="285" column="9" lean-forward="false" selection-start-line="285" selection-start-column="9" selection-end-line="285" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/mange_crontab/css/bootstrap-responsive.min.css" />
+    <entry file="file://$PROJECT_DIR$/mange_crontab/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/mange_crontab/index.php" />
+    <entry file="file://$PROJECT_DIR$/mange_crontab/crontab.php" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -404,7 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -474,20 +463,53 @@
     <entry file="file://$PROJECT_DIR$/mange_crontab/js/main.js" />
     <entry file="file://$PROJECT_DIR$/mange_crontab/index.php" />
     <entry file="file://$PROJECT_DIR$/mange_crontab/crontab.php" />
+    <entry file="file://$PROJECT_DIR$/build_sql_from_word_file/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build_sql_from_word_file/main.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="72" column="49" lean-forward="false" selection-start-line="72" selection-start-column="39" selection-end-line="72" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mp/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
