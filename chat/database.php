@@ -11,7 +11,7 @@ class  DB
 {
 
 
-    public static $mysql_server_name = '139.224.190.138';
+    public static $mysql_server_name = 'localhost';
     public static $mysql_username = 'root';
     public static $mysql_password = '18133193e0';
     public static $mysql_database = 'chat';
